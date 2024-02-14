@@ -1,5 +1,5 @@
 from dewiki_functions import *
-wiki_xml_file = '../simplewiki.xml'  # update this
+wiki_xml_file = '../simplewiki-latest-pages-articles.xml'
 json_save_dir = '../out/wiki.json'
 
 if __name__ == '__main__':
